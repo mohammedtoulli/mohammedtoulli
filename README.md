@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<div align="center">
+  <img height="250" src="https://media.licdn.com/dms/image/v2/D4E16AQGrSkSFj1BQjg/profile-displaybackgroundimage-shrink_350_1400/B4EZUgHNUkG0AY-/0/1740000518736?e=1745452800&v=beta&t=7vwOUocnrHUiqaPTyvr9W8yod51KjyOEpCcBUK3hiAY                                                               "  />
+</div>
+
 
   <h2 align="left">Hi 👋! My name is Mohammed, and I'm a Full Stack Developer from Morocco. 🚀</h2>
 
