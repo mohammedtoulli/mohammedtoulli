@@ -1,7 +1,7 @@
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <div align="center">
-  <img height="outo" src="https://media.licdn.com/dms/image/v2/D4E16AQGrSkSFj1BQjg/profile-displaybackgroundimage-shrink_350_1400/B4EZUgHNUkG0AY-/0/1740000518736?e=1745452800&v=beta&t=7vwOUocnrHUiqaPTyvr9W8yod51KjyOEpCcBUK3hiAY                                                               "  />
+  <img height="outo" src="https://cdn.discordapp.com/attachments/1231741764650668042/1342267814966198405/image.png?ex=67b903d1&is=67b7b251&hm=0d8e67b442cc6fc81dc76ec6773a22b51cca004930ed02d47f69add3b32f825a&      "  />
 </div>
 
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
