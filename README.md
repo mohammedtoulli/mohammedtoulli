@@ -5,11 +5,26 @@
 </div>
 
 
+
+
+
+
+
+
   <h2 align="left">Hi 👋! My name is Mohammed, and I'm a Full Stack Developer from Morocco. 🚀</h2>
 
 ###
 
-<p align="left">Hello World!!<br>- 🏗️ I’m currently working on **Full Stack Development**<br>- 🛠️ I’m looking to collaborate on **Web & App Development Projects**<br>- 🤝 I’m looking for help with **Open Source Contributions**<br>- 🌱 I’m currently learning **Advanced JavaScript, DevOps**<br>- 💬 Ask me about **JAVA SCRIPT, PHP, MySQL , PYTHON , ...**<br>- ⚡ Fun fact **I love problem-solving and coding challenges!**</p>
+
+<p align="left">
+  Bonjour le monde !!<br>
+  - 🏗️ Je travaille actuellement sur le <strong>Développement Full Stack</strong><br>
+  - 🛠️ Je cherche à collaborer sur des <strong>Projets de Développement Web & Applications</strong><br>
+  - 🤝 Je cherche de l'aide pour des <strong>Contributions Open Source</strong><br>
+  - 🌱 J'apprends actuellement <strong>JavaScript Avancé, DevOps</strong><br>
+  - 💬 Demandez-moi à propos de <strong>JAVA SCRIPT, PHP, MySQL, PYTHON, ...</strong><br>
+  - ⚡ Fun fact <strong>J'adore résoudre des problèmes et les défis de programmation !</strong>
+</p>
 
 ###
 
@@ -53,15 +68,14 @@
   </a>
 </div>
 
-###
+
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1rMm53NXdoenYxcWx3dnY2c2F1bnBnMjRtZHE3Zng1aWs5MHBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
 
-###
-
-<img align="center" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
 
 
-###
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
