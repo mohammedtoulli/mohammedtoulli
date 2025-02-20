@@ -11,19 +11,18 @@
 
 
 
-<h2 align="left">Salut 👋 ! Je m'appelle Mohammed, et je suis Développeur Full Stack du Maroc. 🚀</h2>
-
-###
-
+<h2 align="center">Hello! My name is Mohammed, and I am a Full Stack Developer from Morocco. 🚀  
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />  
+</h2>
 
 <p align="left">
-  Bonjour le monde !!<br>
-  - 🏗️ Je travaille actuellement sur le <strong>Développement Full Stack</strong><br>
-  - 🛠️ Je cherche à collaborer sur des <strong>Projets de Développement Web & Applications</strong><br>
-  - 🤝 Je cherche de l'aide pour des <strong>Contributions Open Source</strong><br>
-  - 🌱 J'apprends actuellement <strong>JavaScript Avancé, DevOps</strong><br>
-  - 💬 Demandez-moi à propos de <strong>JAVA SCRIPT, PHP, MySQL, PYTHON, ...</strong><br>
-  - ⚡ Fun fact <strong>J'adore résoudre des problèmes et les défis de programmation !</strong>
+  Hello, World!!<br>
+  - 🏗️ I’m currently working on <strong>Full Stack Development</strong><br>
+  - 🛠️ I’m looking to collaborate on <strong>Web & Application Development Projects</strong><br>
+  - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
+  - 🌱 I’m currently learning <strong>Advanced JavaScript, DevOps</strong><br>
+  - 💬 Ask me about <strong>JavaScript, PHP, MySQL, Python, ...</strong><br>
+  - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong>
 </p>
 
 ###
