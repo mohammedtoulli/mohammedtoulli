@@ -72,15 +72,7 @@
 
 </div>
 
-  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1rMm53NXdoenYxcWx3dnY2c2F1bnBnMjRtZHE3Zng1aWs5MHBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
-
-
-
-
-
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-
+ 
 
 
 
