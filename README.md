@@ -75,7 +75,6 @@
  
 
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" style="height = auto ; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
