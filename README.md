@@ -4,6 +4,7 @@
   <img height="outo" src="https://media.licdn.com/dms/image/v2/D4E16AQGrSkSFj1BQjg/profile-displaybackgroundimage-shrink_350_1400/B4EZUgHNUkG0AY-/0/1740000518736?e=1745452800&v=beta&t=7vwOUocnrHUiqaPTyvr9W8yod51KjyOEpCcBUK3hiAY                                                               "  />
 </div>
 
+<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
@@ -11,7 +12,7 @@
 
 
 
-<h2 align="center">Hello! My name is Mohammed, and I am a Full Stack Developer from Morocco. 🚀  
+<h2 align="center">Hello! My name is  <a href="https://www.linkedin.com/in/mohammed-toulli-04426b33a/" target="_blank">Mohammed</a>   , and I am a Full Stack Developer from Morocco. 🚀  
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />  
 </h2>
 
@@ -79,7 +80,6 @@
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
-<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
