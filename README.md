@@ -69,11 +69,12 @@
   <a href="https://web.facebook.com/profile.php?id=61559600593916" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1rMm53NXdoenYxcWx3dnY2c2F1bnBnMjRtZHE3Zng1aWs5MHBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
+
 </div>
 
 
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1rMm53NXdoenYxcWx3dnY2c2F1bnBnMjRtZHE3Zng1aWs5MHBqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"  />
 
 
 
