@@ -17,17 +17,16 @@
   - 🏗️ I’m currently working on <strong>Full Stack Development</strong><br>
   - 🛠️ I’m looking to collaborate on <strong>Web & Application Development Projects</strong><br>
   - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
-  - 🌱 I’m currently learning <strong>Advanced JavaScript, DevOps</strong><br>
-  - 💬 Ask me about <strong>JavaScript, PHP, MySQL, Python, ...</strong><br>
+  - 💬 Ask me about <strong>, PHP, MySQL, Python, ...</strong><br>
   - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong>
 </p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -35,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -43,7 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 
 </div>
 
