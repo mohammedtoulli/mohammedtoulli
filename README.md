@@ -12,13 +12,14 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />  
  </samp></h2>
 
-<p align="left">
+<p align="left"> <samp>
   Hello, World!!<br>
   - 🏗️ I’m currently working on <strong>Full Stack Development</strong><br>
   - 🛠️ I’m looking to collaborate on <strong>Web & Application Development Projects</strong><br>
   - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
   - 💬 Ask me about <strong>, PHP, MySQL, Python, ...</strong><br>
   - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong>
+  </samp>
 </p>
 
 ###
