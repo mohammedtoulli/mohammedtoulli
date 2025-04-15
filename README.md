@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h2 align="center">
-  <samp> Hello! My name is <a href="https://www.linkedin.com/in/mohammed-toulli-04426b33a/" target="_blank">Mohammed Toulli</a>, and I am a Full Stack Developer from Morocco. 🚀  
+  <samp> Hello! My name is <a href="https://www.linkedin.com/in/mohammed-toulli-04426b33a/" target="_blank">Mohammed </a>, and I am a Full Stack Developer from Morocco. 🚀  
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
   </samp>
 </h2>
