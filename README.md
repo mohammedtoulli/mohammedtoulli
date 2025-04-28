@@ -14,6 +14,8 @@
     - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
     - 💬 Ask me about <strong>PHP, MySQL, Python, ...</strong><br>
     - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong>
+    - 🔗 My Website: <strong><a href  = "https://mohammedtoulli.github.io/website/?fbclid=PAZXh0bgNhZW0CMTEAAadarHBypK5gVjq8SiUFUsRY4kw9wurtUL81RlIUHn4Yj40iPrrnAthlD82cXA_aem_q9f1uStrL9xVyT5pNw33bA">Mohammed Toulli</a></strong>
+
   </samp>
 </p>
 
@@ -47,7 +49,7 @@
   </a>
   <a href="https://www.instagram.com/m_a_y_k_e_l_001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+  </
   <a href="https://discordapp.com/users/1068858087160684677" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
