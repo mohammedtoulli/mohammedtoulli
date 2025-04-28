@@ -13,8 +13,7 @@
     - 🛠️ I’m looking to collaborate on <strong>Web & Application Development Projects</strong><br>
     - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
     - 💬 Ask me about <strong>PHP, MySQL, Python, ...</strong><br>
-    - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong>
-    - 🔗 My Website: <strong><a href  = "https://mohammedtoulli.github.io/website/?fbclid=PAZXh0bgNhZW0CMTEAAadarHBypK5gVjq8SiUFUsRY4kw9wurtUL81RlIUHn4Yj40iPrrnAthlD82cXA_aem_q9f1uStrL9xVyT5pNw33bA">Mohammed Toulli</a></strong>
+    - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong><br>    - 🔗 My Website: <strong><a href  = "https://mohammedtoulli.github.io/website/?fbclid=PAZXh0bgNhZW0CMTEAAadarHBypK5gVjq8SiUFUsRY4kw9wurtUL81RlIUHn4Yj40iPrrnAthlD82cXA_aem_q9f1uStrL9xVyT5pNw33bA">Mohammed Toulli</a></strong>
 
   </samp>
 </p>
