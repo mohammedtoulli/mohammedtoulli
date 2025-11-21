@@ -37,10 +37,6 @@ I am a passionate **Full Stack Developer** focused on creating clean, efficient,
 
 </div>
 
----
-
-
----
 
 
 ---
