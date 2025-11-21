@@ -1,69 +1,73 @@
-<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<!-- HEADER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" width="100%" alt="Banner"/>
+  
+  <h1>👋 Hi, I'm <span style="color:#4CAF50;">Mohammed</span></h1>
+  <h3>Full Stack Developer • Problem Solver • Tech Enthusiast</h3>
+  <h4>From Morocco 🇲🇦</h4>
+</div>
 
-<h2 align="center">
-  <samp> Hello! My name is <a href="https://www.linkedin.com/in/mohammed-toulli-04426b33a/" target="_blank">Mohammed </a>, and I am a Full Stack Developer from Morocco. 🚀  
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-  </samp>
-</h2>
+---
 
-<p align="left">
-  <samp>
-    Hello  World!!<br>
-    - 🏗️ I’m currently working on <strong>Full Stack Development</strong><br>
-    - 🛠️ I’m looking to collaborate on <strong>Web & Application Development Projects</strong><br>
-    - 🤝 I’m looking for help with <strong>Open Source Contributions</strong><br>
-    - 💬 Ask me about <strong>PHP, MySQL, Python, ...</strong><br>
-    - ⚡ Fun fact: <strong>I love solving problems and programming challenges!</strong><br>    - 🔗 My Website: <strong><a href  = "https://mohammedtoulli.github.io/website/?fbclid=PAZXh0bgNhZW0CMTEAAadarHBypK5gVjq8SiUFUsRY4kw9wurtUL81RlIUHn4Yj40iPrrnAthlD82cXA_aem_q9f1uStrL9xVyT5pNw33bA">Mohammed Toulli</a></strong>
+## 🚀 About Me
+I am a passionate **Full Stack Developer** focused on creating clean, efficient, and scalable applications.
 
-  </samp>
+- 🔭 Building advanced **Full Stack Web Projects**
+- 💡 Skilled in **PHP, Laravel, MySQL, JavaScript, TypeScript, React, MongoDB**
+- 💬 Ask me about **APIs, Backend, Databases & UI Development**
+- 🌍 Portfolio: **[mohammedtoulli.github.io](https://mohammedtoulli.github.io/website/)**
+- ⚡ I love solving hard problems & creating real-world solutions.
+
+---
+
+## 🧰 Tech Stack  
+<div align="center">
+
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react" height="50"/>
+
+### **Backend**
+<img src="https://skillicons.dev/icons?i=php,laravel" height="50"/>
+
+### **Database**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+
+### **Tools & Others**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" height="50"/>
+
+</div>
+
+---
+
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="vscode logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="php logo" />
-   <img width="12" />
-
-    
-</div>
-
-###
-
+## 🌐 Social Links
 <div align="center">
   <a href="https://web.facebook.com/profile.php?id=61559600593916" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&style=for-the-badge" height="35" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/@mohammedeltoulli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  
+  <a href="https://www.instagram.com/mohammed_toulli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="Instagram"/>
   </a>
-  <a href="https://www.instagram.com/m_a_y_k_e_l_001/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </
   <a href="https://discordapp.com/users/1068858087160684677" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="Discord"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-toulli-04426b33a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+---
 
-<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" width="100%"/>
+</div>
